@@ -1,6 +1,6 @@
 ### Hi there, I'm Quentin 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Student and Developer !
 - 🔭 I’m currently working on my website[webiste]!
 - 🌱 I’m currently learning React
 - 🥅 2020 Goals: Start my first year in my engineering school
@@ -32,7 +32,7 @@
 
 ---
 
-<img align="left" alt="qbtl's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=qbtl&show_icons=true&hide_border=true" />
+<img align="left" alt="qbtl's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=qbtl&show_icons=true&hide_border=true&hide=stars,contribs" />
 
 [website]: https://quentinboitel.netlify.app
 [instagram]: https://instagram.com/_qbtl_
