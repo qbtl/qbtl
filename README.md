@@ -1,7 +1,7 @@
 ### Hi there, I'm Quentin 👋
 
 ## I'm a Student and Developer !
-- 🔭 I’m currently working on my website[webiste]!
+- 🔭 I’m currently working on my [website]!
 - 🌱 I’m currently learning React
 - 🥅 2020 Goals: Start my first year in my engineering school
 - ⚡ Fun fact: I love macOS but I just brought a Windows computer
