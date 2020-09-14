@@ -10,6 +10,7 @@
 
 [<img align="left" alt="quentinboitel.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="_qbtl_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Quentin Boitel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -46,15 +47,16 @@
 <img align="left" alt="qbtl's Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qbtl&layout=compact" />
 
 [website]: https://quentinboitel.netlify.app
-[instagram]: https://instagram.com/_qbtl_
+[instagram]: https://www.instagram.com/_qbtl_
+[twitter]: https://www.twitter.com/qbtl2
 [vs-code]: https://code.visualstudio.com
 [html5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-[github]: https://github.com
+[github]: https://www.github.com
 [css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[sass]: https://sass-lang.com
-[node]: https://nodejs.org/en/
-[react]: https://reactjs.org
+[sass]: https://www.sass-lang.com
+[node]: https://www.nodejs.org/en/
+[react]: https://www.reactjs.org
 [terminal]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-[git]: https://git-scm.com
+[git]: https://www.git-scm.com
 [mongo]: https://www.mongodb.com
