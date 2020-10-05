@@ -45,6 +45,7 @@
 ---
 
 <img align="left" alt="qbtl's Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qbtl&layout=compact" />
+<img align="left" alt="qbtl's Github Language Stats" src="https://novatorem-hnakih2m1.vercel.app/api/spotify" />
 [Spotify](https://novatorem-hnakih2m1.vercel.app/api/spotify)
 
 [website]: https://quentinboitel.netlify.app
