@@ -46,6 +46,18 @@
 
 <img align="left" alt="qbtl's Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qbtl&layout=compact" />
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+---
+
+<img align="left" alt="qbtl's Spotify Now Playing" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=tintin1789&cover_image=true" />
+
 [website]: https://quentinboitel.netlify.app
 [instagram]: https://www.instagram.com/_qbtl_
 [twitter]: https://www.twitter.com/qbtl2
@@ -60,4 +72,3 @@
 [terminal]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 [git]: https://www.git-scm.com
 [mongo]: https://www.mongodb.com
-[Spotify]: https://open.spotify.com/user/tintin1789
