@@ -35,6 +35,14 @@
 
 <img align="left" alt="qbtl's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=qbtl&show_icons=true&hide_border=true&hide=stars,contribs&include_all_commits=true" /><img align="left" alt="qbtl's Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qbtl&layout=compact" />
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ---
 
 <img align="left" alt="qbtl's Spotify Now Playing" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=tintin1789&cover_image=false" />
