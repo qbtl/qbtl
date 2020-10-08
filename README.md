@@ -34,6 +34,13 @@
 
 <img align="left" alt="qbtl's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=qbtl&show_icons=true&hide_border=true&hide=stars,contribs&include_all_commits=true" /><img alt="qbtl's Spotify Now Playing" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=tintin1789&cover_image=false" />
 
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 [website]: https://quentinboitel.netlify.app
 [instagram]: https://www.instagram.com/_qbtl_
 [twitter]: https://www.twitter.com/qbtl2
