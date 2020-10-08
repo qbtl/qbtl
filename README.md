@@ -46,8 +46,6 @@ YAML         25 mins         █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
----
-
 [website]: https://quentinboitel.netlify.app
 [instagram]: https://www.instagram.com/_qbtl_
 [twitter]: https://www.twitter.com/qbtl2
