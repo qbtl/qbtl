@@ -49,4 +49,4 @@ JSON         1 hr 23 mins    ██▓░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+<h1 align='center'><i>Stay safe, wear a mask!</i></h1>
