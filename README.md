@@ -15,6 +15,9 @@
 <h3 align="center">🙎 Quentin Boitel | 💻 Engineering Student | 🌍 Toulon , FR</h3>
 <h3 align="center">🔭 Working on my website!🌱 Learning C | 🥅 2020 Goals: Pass my college exams</h3>
 </div>
+<p align="center">
+<img align="center" src="code.gif" alt="Code Gif" width="600px" height="500px">
+</p>
 
 ### Languages and Tools
 
