@@ -5,8 +5,9 @@
 
 <p align='center'>
 <a href="https://quentinboitel.netlify.app/"><img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/qbtl2"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/quentin_boitel"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/_qbtl_"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>&nbsp;&nbsp;
+<a href="https://www.dribbble.com/qbtl"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg"></a>&nbsp;&nbsp;   
 <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true">&nbsp;&nbsp;
  </p>
 
