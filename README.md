@@ -17,7 +17,7 @@
 <h3 align="center">🔭 Working on an e-commerce plateform! | 🌱 Learning PHP | 🥅 2021 Goals: Launch the e-commerce plateform</h3>
 </div>
 <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/qbtl/website/develop/dist/images/home.svg" alt="Code editor" width="600px" height="500px">
+<img align="center" src="https://raw.githubusercontent.com/qbtl/website/develop/assets/images/home.svg" alt="Code editor" width="600px" height="500px">
 </p>
 
 ### Languages and Tools
